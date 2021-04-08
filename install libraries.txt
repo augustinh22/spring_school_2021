@@ -1,0 +1,9 @@
+conda install pandas
+pip install folium
+pip install spacy
+conda install -c conda-forge spacy
+pip install --upgrade pip
+python -m spacy download en_core_web_trf
+conda install --channel conda-forge geopandas
+pip install geopy
+pip install geodesic
